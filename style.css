@@ -1,22 +1,35 @@
 body {
-    background-color: #0f0f0f;
+  background-color: #0c0c0c;
 }
 
 h1 {
-    margin-top: 368px;
-    font-size: 50px;
-    color: rgb(0, 152, 253);
+  margin-top: 400px;
+  font-size: 50px;
+  color: rgb(0, 152, 253);
 }
 
 p {
-    color: white;
+  color: white;
 }
 
 h2 {
-    font-size: 36px;
-    margin-left: 20rem;
-    margin-top: 17rem;
-    background: -webkit-linear-gradient(right, rgb(252, 165, 3) 85%, rgb(255, 255, 0) 100%);
-    -webkit-background-clip: text;
-    color: transparent;
+  font-size: 36px;
+  margin-left: 15rem;
+  margin-top: 17rem;
+  background: -webkit-linear-gradient(right, rgb(252, 165, 3) 85%, rgb(255, 255, 0) 100%);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.info {
+  width: 814px;
+  height: 220px;
+}
+
+.product {
+  font-size: 50px;
+  text-align: center;
+  background: -webkit-linear-gradient(right rgb(45, 252, 3) 85%, rgb(0, 255, 221) 100%);
+  -webkit-background-clip: text;
+  color: transparent;
 }
