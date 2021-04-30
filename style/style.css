@@ -31,6 +31,9 @@ h2 {
     margin-top: -18rem;
     text-align: center;
     font-size: 50px;
+    background: -webkit-linear-gradient(left, rgba(39, 214, 230, 1) 0%, rgba(152, 235, 97, 1) 50%, rgba(248, 80, 50, 1) 100%);
+    color: transparent;
+    background-clip: text;
 }
 
 #pkl {
