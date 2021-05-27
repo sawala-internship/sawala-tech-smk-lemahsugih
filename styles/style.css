@@ -3,8 +3,8 @@ body {
 }
 
 h1 {
-    margin-top: 400px;
-    font-size: 50px;
+    margin-top: 250px;
+    font-size: 80px;
     color: rgb(0, 152, 253);
 }
 
@@ -14,7 +14,7 @@ p {
 
 h2 {
     font-size: 36px;
-    margin-left: 15rem;
+    margin-left: 10rem;
     background: -webkit-linear-gradient(right, rgb(252, 165, 3) 85%, rgb(255, 255, 0) 100%);
     color: transparent;
     -webkit-background-clip: text;
@@ -35,4 +35,8 @@ h2 {
 
 #pkl {
     background-color: #0c0c0c;
+}
+
+#navAction {
+    margin-right: 70px;
 }
